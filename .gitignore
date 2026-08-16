@@ -26,3 +26,16 @@ sysinfo.txt
 # Unity builds
 *.app/
 *_Data/
+
+# Old prototype builds
+First Prototype/
+First Prototype Web/
+Second Prototype/
+Second Prototype Web/
+Third Prototype/
+Third Prototype Web/
+Third Prototype itch.io/
+Third Prototype Web itch.io/
+
+# Generated WebGL build output
+Fourth Prototype Web/Build/
